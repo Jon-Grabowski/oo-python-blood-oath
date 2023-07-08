@@ -15,9 +15,9 @@ c3 = Cult( 'Pi Cult', 'Mars, PA', 2016, 'Math is power, math is might. Math will
 bo1 = BloodOath( '2019-09-16', f1, c1 )
 bo2 = BloodOath( '2021-11-21', f4, c2 )
 bo3 = BloodOath( '2016-03-14', f2, c3 )
-# ipdb.set_trace()
 bo4 = BloodOath( '2020-03-18', f3, c3 )
-# ipdb.set_trace()
+bo4 = BloodOath( '2020-03-18', f2, c1 )
+
 
 
 # c1.followers => ???
